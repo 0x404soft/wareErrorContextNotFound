@@ -14,3 +14,24 @@ NO SHORT TERM RESOLUTION FOUND. `ERROR PHRASE` ADDED TO LOGS FOR NEXT RE-PARSE:
 
 “A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.”
 
+---
+
+(S (NP It)
+   (VP is)
+   (SBAR as
+         (S (SBAR though
+                  (S (NP I)
+                     (VP can
+                         (VP (ADVP only)
+                             speak
+                             (PP by
+                                 (NP (NP analogy)
+                                     , but
+                                     (NP it)))))))
+            is like
+            (S (NP I)
+               (VP have
+                   (VP found
+                       (NP my voice)))))))
+                       
+---
