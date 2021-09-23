@@ -16,22 +16,38 @@ NO SHORT TERM RESOLUTION FOUND. `ERROR PHRASE` ADDED TO LOGS FOR NEXT RE-PARSE:
 
 ---
 
-(S (NP It)
-   (VP is)
-   (SBAR as
-         (S (SBAR though
-                  (S (NP I)
-                     (VP can
-                         (VP (ADVP only)
-                             speak
-                             (PP by
-                                 (NP (NP analogy)
-                                     , but
-                                     (NP it)))))))
-            is like
-            (S (NP I)
-               (VP have
-                   (VP found
-                       (NP my voice)))))))
+```
+          +----------------------------------Cs-------------------------
+          |      +-----------------------------COds---------------------
+          |      |          +-----I-----+                               
+ +-Ss+-MVs+      +--Cs-+Sp*i+     +--E--+-MVp-+--Jp-+                   
+ |   |    |      |     |    |     |     |     |     |                   
+it is.v as.p though.c I.p can.v only speak.v by analogy.n , but it [is] 
+
+
+--------+                        
+--------+                        
+        |            +----Os----+
+        +-Sp*i+--PP--+     +-Ds-+
+        |     |      |     |    |
+[like] I.p have.v found.p my voice.n 
+
+
+          +----------------------------------Cs-------------------------
+          |      +-----------------------------COds---------------------
+          |      |          +-----I-----+                               
+ +-Ss+-MVs+      +--Cs-+Sp*i+     +--E--+-MVp-+---------J--------+      
+ |   |    |      |     |    |     |     |     |                  |      
+it is.v as.p though.c I.p can.v only speak.v by analogy.n , but it [is] 
+
+
+--------+                        
+--------+                        
+        |            +----Os----+
+        +-Sp*i+--PP--+     +-Ds-+
+        |     |      |     |    |
+[like] I.p have.v found.p my voice.n 
+
+```
                        
 ---
